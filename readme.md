@@ -4,20 +4,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaliao1002)](https://github.com/elenaliao1002/github_stats)
 
 
-### About Me <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhello-gifs&psig=AOvVaw1tclp0fA6fJeR2s9VydOMJ&ust=1679873744347000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDIosCf-P0CFQAAAAAdAAAAABAE)" width="25px">
-<img align="right" width=400px src="images/top-lang-6.png" />
 
-⌨️ Programming: Python, Java, Typescript
+⌨️ Programming: Python, SQL, R
 
 📚 Machine Learning: PyTorch, NLP, CV, Deep Learning
 
 📦 Databases: PostgreSQL, MongoDB 
 
-📤 Distribution Computing: Apache Spark, AWS EMR
+📤 Distribution Computing: Apache Spark, 
 
 🛠️ Infrastructure: Docker, Kubernetes, AWS Cloud Infrastructure
 
-🏔️ Alpine Climbing, Rock Climbing, Backpacking
+🏔️ Traveling, Board Games, Watching Movies
 
 <!--
 **ajinChen/ajinChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
