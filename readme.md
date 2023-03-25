@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @elenaliao1002, Currently an MS Data Science Student @USFCA, I am a hybrid of Data Scientist and Machine Learning Engineer and passionate about learning new cool tech!
-
-![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenaliao1002&show_icons=true&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaliao1002)](https://github.com/elenaliao1002/github_stats)
 
 
+👋 Hi, I’m @elenaliao1002, Currently an MS Data Science Student @USFCA, I am a hybrid of Data Scientist and Machine Learning Engineer and passionate about learning new cool tech!
+
+<img align="right" width=450px src="https://github-readme-stats.vercel.app/api?username=elenaliao1002&show_icons=true&count_private=true&theme=radical&text_color=e4bf7a" />
 
 ⌨️ Programming: Python, SQL, R
 
@@ -17,7 +16,14 @@
 
 🏔️ Traveling, Board Games, Watching Movies
 
+
+
+
 <!--
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenaliao1002&show_icons=true&count_private=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaliao1002)](https://github.com/elenaliao1002/github_stats)
+
 **ajinChen/ajinChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
