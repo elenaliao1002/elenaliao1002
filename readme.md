@@ -1,8 +1,8 @@
 
-
+### About Me
 👋 Hi, I’m @elenaliao1002, Currently an MS Data Science Student @USFCA, I am a hybrid of Data Scientist and Machine Learning Engineer and passionate about learning new cool tech!
 
-<img align="right" width=450px src="https://github-readme-stats.vercel.app/api?username=elenaliao1002&show_icons=true&count_private=true&theme=radical&text_color=e4bf7a" />
+<img align="right" width=450px src="https://github-readme-stats.vercel.app/api?username=elenaliao1002&show_icons=true&count_private=true&theme=tokyonight&text_color=e4bf7a" />
 
 ⌨️ Programming: Python, SQL, R
 
