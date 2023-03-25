@@ -12,7 +12,7 @@
 
 📤 Distribution Computing: Apache Spark, 
 
-🛠️ Infrastructure: Docker, Kubernetes, AWS Cloud Infrastructure
+✨ Visualization: PowerBI, Cognos
 
 🏔️ Traveling, Board Games, Watching Movies
 
