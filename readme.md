@@ -16,10 +16,11 @@
 
 🏔️ Traveling, Board Games, Watching Movies
 
-![](https://leetcard.elenaliao1002/elenaliao1002?theme=light,unicorn)
 
 
 <!--
+![LeetCode Stats](https://leetcard.jacoblin.cool/elenaliao1002?theme=unicorn&ext=heatmap)
+
 ![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenaliao1002&show_icons=true&count_private=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaliao1002)](https://github.com/elenaliao1002/github_stats)
