@@ -6,11 +6,11 @@
 
 ⌨️ Programming: Python, SQL, R
 
-📚 Machine Learning: PyTorch, NLP, CV, Deep Learning
+📚 Machine Learning: PyTorch, NLP*, CV, Deep Learning*
 
-📦 Databases: PostgreSQL, MongoDB 
+📦 Databases: PostgreSQL, MongoDB(NoSQL)
 
-📤 Distribution Computing: Apache Spark, MongoDB, Databricks
+📤 Distribution Computing: Apache Spark, Databricks, Kafka*, Kubernetes*
 
 ✨ Visualization: PowerBI, Cognos
 
