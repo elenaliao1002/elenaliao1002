@@ -10,7 +10,7 @@
 
 📦 Databases: PostgreSQL, MongoDB(NoSQL)
 
-📤 Distribution Computing: Apache Spark, Databricks, Kafka*, Kubernetes*
+📤 Distribution Computing: Apache Spark, Databricks, Kafka*
 
 ✨ Visualization: PowerBI, Cognos
 
