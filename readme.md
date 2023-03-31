@@ -12,7 +12,7 @@
 
 📤 Distribution Computing: Apache Spark, Databricks, Kafka*
 
-✨ Visualization: PowerBI, Cognos
+✨ Visualization: PowerBI, Tableau
 
 🏔️ Traveling, Board Games, Watching Movies
 
