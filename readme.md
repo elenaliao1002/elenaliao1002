@@ -16,6 +16,8 @@
 
 🏔️ Traveling, Board Games, Watching Movies
 
+📫 Happy to connect with [LinkedIn](https://www.linkedin.com/in/elenaliao1002/) or [Email](elenaliao1002@gmail.com)
+
 *:In Progress 
 
 
